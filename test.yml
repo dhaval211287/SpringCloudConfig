@@ -3,3 +3,7 @@ spring:
     consumer:
       properties:
         group.id: foo
+my:
+  value: this is my value coming from confih server
+app:
+  name: name coming from git
