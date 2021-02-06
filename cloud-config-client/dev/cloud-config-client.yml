@@ -1,1 +1,2 @@
-app.name: this is coming from git
+app:
+  name: this is coming from git
